@@ -1,0 +1,8 @@
+{
+  "chat_model": "llama-3.3-70b-versatile",
+  "tts_voice": "Fritz-PlayAI",
+  "tts_model": "playai-tts",
+  "memory_on": true,
+  "gemini_model": "gemini-1.5-flash",
+  "groq_api_key": ""
+}

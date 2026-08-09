@@ -1,0 +1,5 @@
+flet
+groq
+requests
+flet-audio-recorder
+flet-audio
